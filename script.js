@@ -1,4 +1,4 @@
-// let apiKey = "AIzaSyBrW5__YL1Ppn4zKD6d3P9TukuZC-hEtp4";
+let apiKey = "AIzaSyBrW5__YL1Ppn4zKD6d3P9TukuZC-hEtp4";
 let channelUrl = "https://www.googleapis.com/youtube/v3/channels?";
 let videoUrl = "https://www.googleapis.com/youtube/v3/videos?";
 
